@@ -2,7 +2,7 @@
  * Javacore 1. Homewokr 2.
  * @author Andrey Ievlev
  * @version Jan 24, 2018
- * @Link
+ * @Link https://github.com/OLskrain/HomeWork2.git
  */
 
 public class HomeWork2 {
@@ -30,7 +30,7 @@ public class HomeWork2 {
             }
 
             array[0][1] = null;
-            array[0][2] = "error";  
+            array[0][2] = "error";
 
             for (int i = 0; i < array.length; i++){
                 for (int j = 0; j < array[i].length; j++) {
